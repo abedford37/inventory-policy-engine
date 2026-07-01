@@ -1,0 +1,9 @@
+supplier_id,origin,lead_time_days,lead_time_std
+S01,import,68.2,13.3
+S02,import,70.8,16.4
+S03,import,47.8,19.7
+S04,import,67.8,17.4
+S05,import,48.8,13.4
+S06,domestic,10.3,3.8
+S07,domestic,12.8,3.6
+S08,domestic,11.0,2.1
